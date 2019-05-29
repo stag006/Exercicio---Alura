@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\CSharp\Aulas\Exercicio\AprendendoCSharp\TestaCaracteres\bin\Debug\TestaCaracteres.exe.config
+C:\Users\usuario\Desktop\CSharp\Aulas\Exercicio\AprendendoCSharp\TestaCaracteres\bin\Debug\TestaCaracteres.exe
+C:\Users\usuario\Desktop\CSharp\Aulas\Exercicio\AprendendoCSharp\TestaCaracteres\bin\Debug\TestaCaracteres.pdb
+C:\Users\usuario\Desktop\CSharp\Aulas\Exercicio\AprendendoCSharp\TestaCaracteres\obj\Debug\TestaCaracteres.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\CSharp\Aulas\Exercicio\AprendendoCSharp\TestaCaracteres\obj\Debug\TestaCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\CSharp\Aulas\Exercicio\AprendendoCSharp\TestaCaracteres\obj\Debug\TestaCaracteres.exe
+C:\Users\usuario\Desktop\CSharp\Aulas\Exercicio\AprendendoCSharp\TestaCaracteres\obj\Debug\TestaCaracteres.pdb
