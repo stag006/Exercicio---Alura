@@ -1,0 +1,2 @@
+C:\Users\stag006\Desktop\Alura\T02\06-ByteBank\obj\Debug\06-ByteBank.csprojAssemblyReference.cache
+C:\Users\stag006\Desktop\Alura\T02\06-ByteBank\obj\Debug\06-ByteBank.csproj.CoreCompileInputs.cache
