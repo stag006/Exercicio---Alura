@@ -21,6 +21,7 @@ namespace ByteBank
 
             gerenciador.Registrar(carlos);
 
+
             Diretor roberta = new Diretor();
             roberta.Nome = "Roberta";
             roberta.CPF = "132.465.798-45";
@@ -28,17 +29,15 @@ namespace ByteBank
 
             gerenciador.Registrar(roberta);
 
-
-
             Console.WriteLine(carlos.Nome);
             Console.WriteLine(carlos.GetBonificacao());
 
-            Console.WriteLine();
+            Console.WriteLine(); // Pula linha
 
             Console.WriteLine(roberta.Nome);
             Console.WriteLine(roberta.Salario);
 
-            Console.WriteLine();
+            Console.WriteLine(); // Pula linha
 
             Console.WriteLine("Total de bonificações: " + gerenciador.GetTtotalBonificacao());
 
